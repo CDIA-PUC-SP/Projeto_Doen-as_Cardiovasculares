@@ -44,7 +44,3 @@ This project can be undertaken by data scientists, machine learning engineers, o
 The project's duration may vary depending on the dataset's size and complexity. A typical timeline may range from a few weeks to a few months, including data preparation, modeling, and evaluation stages.
 
 **Note:** Ensure that you have the necessary permissions to use the Kaggle dataset for your analysis and that you comply with Kaggle's terms of use.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
